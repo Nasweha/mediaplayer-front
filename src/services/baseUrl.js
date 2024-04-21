@@ -1,3 +1,3 @@
 //path of backend
 
-export const  serverURL = 'http://localhost:4000'
+export const  serverURL = 'https://mediaplayer-server-nkxm.onrender.com'
